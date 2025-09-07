@@ -1,0 +1,5 @@
+requests[socks]
+rich
+python-dotenv
+stem
+dnspython
