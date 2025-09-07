@@ -1,4 +1,3 @@
-<img width="697" height="764" alt="Screenshot 2025-09-07 190835" src="https://github.com/user-attachments/assets/6a082629-37da-4738-8995-ba64c47bd74d" />
 # IPSentinel
 
 A professional OSINT, network reconnaissance, and threat intelligence toolkit for Kali Linux.
@@ -25,6 +24,9 @@ IPSentinel is licensed under the GNU General Public License v3.0 (GPLv3).
 You may copy, modify, and redistribute this software under the terms of the GPLv3.  
 See [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html) for details.
 
+## GUI
+<img width="697" height="764" alt="Screenshot 2025-09-07 190835" src="https://github.com/user-attachments/assets/6a082629-37da-4738-8995-ba64c47bd74d" />
+
 ## Installation
 
 1. Clone the repository:
@@ -46,6 +48,8 @@ See [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl
 ## Usage
 
 ### CLI
+<img width="769" height="504" alt="Screenshot 2025-09-07 190907" src="https://github.com/user-attachments/assets/b7d58a7d-4ded-4e25-9437-ea1c1dfe4caa" />
+
 
 ```
 python main.py -i <ip> [options]
@@ -105,5 +109,6 @@ SHODAN_KEY=...
 For help, open an issue on GitHub or see the included documentation.
 
 ---
+
 
 
