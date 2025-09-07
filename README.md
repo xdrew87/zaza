@@ -1,3 +1,4 @@
+<img width="697" height="764" alt="Screenshot 2025-09-07 190835" src="https://github.com/user-attachments/assets/6a082629-37da-4738-8995-ba64c47bd74d" />
 # IPSentinel
 
 A professional OSINT, network reconnaissance, and threat intelligence toolkit for Kali Linux.
@@ -104,4 +105,5 @@ SHODAN_KEY=...
 For help, open an issue on GitHub or see the included documentation.
 
 ---
+
 
