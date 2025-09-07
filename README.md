@@ -28,7 +28,7 @@ See [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourrepo/ipsentinel.git
+    git clone https://github.com/xdrew87/zaza.git
     cd ipsentinel
     ```
 2. Install dependencies:
@@ -104,3 +104,4 @@ SHODAN_KEY=...
 For help, open an issue on GitHub or see the included documentation.
 
 ---
+
